@@ -46,4 +46,11 @@ Professional Services Consulting
 dabinc@gmx.com · (202) 733-9549 · (240) 978-0968
 © 2026 DABINC. All rights reserved.
 assessmentPaymentUrl: "https://www.paypal.com/ncp/payment/2NS5E9DU5F27J",
-productPaymentUrl: "https://www.paypal.com/ncp/payment/QBXU8JPG8DAG4",
+productPaymentUrl: "https://www.paypal.com/ncp/payment/QBXU8JPG8DAG4",phoneDisplay: "(202) 733-9549",
+phoneE164: "+12027339549",
+
+textDisplay: "(240) 978-0968",
+textE164: "+12409780968",
+
+assessmentPaymentUrl: "https://www.paypal.com/ncp/payment/2NS5E9DU5F27J",
+productPaymentUrl: "https://www.paypal.com/ncp/payment/QBXU8JPG8DAG4"
